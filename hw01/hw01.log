@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 SEP 2017 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 SEP 2017 14:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -649,7 +649,7 @@ Package pdftex.def Info: fig2-28.jpg used on input line 33.
 Here is how much of TeX's memory you used:
  13140 strings out of 493014
  258535 string characters out of 6133351
- 309511 words of memory out of 5000000
+ 309486 words of memory out of 5000000
  16395 multiletter control sequences out of 15000+600000
  17360 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -663,7 +663,7 @@ mathpazo/fplmri.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatin
 o/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8
 a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 
-Output written on hw01.pdf (4 pages, 1291813 bytes).
+Output written on hw01.pdf (4 pages, 1291462 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
